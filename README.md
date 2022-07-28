@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... new technical challenge and real world problems
 - 🌱 I’m currently learning ... Java and problem solving using data structures,Salesforce 
 - 💞️ I’m looking to collaborate on ... Salesforce 
-- 📫 How to reach me ... avaneeshsfdc@gmail.com
+- 📫 How to reach me ... avaneeshsfdc@gmail.com, LinkedIn : avaneeshsfdc
 
 <!---
 Avaneeshsfdc/Avaneeshsfdc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
